@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[XND] Animal Armor (Continued)</name>
+  <packageId>Mlie.XNDAnimalArmor</packageId>
+  <author>XeoNovaDan</author>
+  <url>https://github.com/emipa606/XNDAnimalArmor</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of XeoNovaDans mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1308599543
+
+- Replaced the patch-system with C#-code that dynamically adds armour recipies to all animals depending on body-size instead. This way the mod will work on all animals
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/XNDAnimalArmor][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+Direct download from [url=https://github.com/XeoNovaDan/AnimalArmor/releases/latest]GitHub[/url].
+
+[h1][b]Compatibility[/b][/h1]
+Compatible with Vanilla-Friendly Animal Surgery and A Dog Said and will work with either mod without any issues.
+
+This can be used with other animal mods active, but you can't actually install armor onto them since they won't have the RecipeDefs XML patched onto them. As a result, compatibility patches will be needed to be able to armor up your penguins, thrumuffalo or whatever other modded animals you have. It'll be up to other modders to either make external compatibility patches or submit them to me so that I can integrate them into the mod Combat Extended-style.
+
+I'd recommend using the following mods alongside this for an optimal experience:[list]
+[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1130112804][b]Vanilla-Friendly Animal Surgery[/b][/url] so that you can give your animals painstoppers and bionics to make them into true mobile meat/mechanoid grinders.
+[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1102480398][b]Simple Plastic[/b][/url] so that you can produce synthread to establish a heavy armor production chain.[/list]
+[b]The following mods are compatible with Animal Armor:[/b][list]
+[*][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1113137502][b]GeneticRim[/b][/url] by SargBjornson
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1205488606][b]FFGermanShepherd[/b][/url] by forestfey
+[/list]
+[h1][b]Overview[/b][/h1]
+Animal army enthusiasts, did it ever bother you that in RimWorld that you can't armor up your animals? Well, this mod allows you to do exactly so!
+
+Animal Armor adds three variations of armor, all with differing characteristics (they all offer full-body coverage though), all three types being producible with varying levels of research - it's generally cheaper to buy them from settlements or combat suppliers than to produce them though, so bear that in mind. On top of that, you need to make sure that you get the right size of armor for your animals; 'tiny' armor for squirrels isn't going to fit on 'huge' elephants for example, and vice-versa, and this applies to other size categories too.
+
+However, not all RimWorld animals might like being handled! As a result, when installing or removing armor, some medicine is also required to anesthetize the animal to ensure no resistance. From then on, it's impossible to fail installing armor onto an animal, regardless of how bad the doctor and medicine is.
+
+A brief overview of all armor types:[list]
+[*][b]Makeshift[/b] - The cheapest, lowest-tech solution of the three. 30% sharp resistance and 10% blunt resistance, but also reduces movement speed by 10%. Producible from steel, or purchasable from tribals and outlanders.
+[*][b]Standard[/b] - Modern armor, the most well-rounded of the three. 30% sharp resistance and 10% blunt resistance, but no movement speed penalty. Producible from cloth, steel and a small amount of plasteel, or purchasable from outlanders and orbital traders.
+[*][b]Heavy[/b] - Modern armor, ultimately the best of the three. 60% sharp resistance and 20% blunt resistance, but also reduces movement speed by 20%. Producible from synthread, as well as a lot of steel and plasteel, or purchasable from outlanders and orbital traders.[/list]
+Size categories:[list]
+[*][b]Tiny[/b] - This consists of animals with a full-grown body size of less than 0.3: squirrels, boomrats etc.
+[*][b]Small[/b] - This consists of animals with a full-grown body size of at least 0.3, but less than 0.7: monkeys, foxes etc.
+[*][b]Medium[/b] - This consists of animals with a full-grown body size of at least 0.7, but less than 1.3: dogs, boars, alpacas etc.
+[*][b]Large[/b] - This consists of animals with a full-grown body size of at least 1.3, but less than 2.4: cougars, bears, muffalo etc.
+[*][b]Huge[/b] - This consists of animals with a full-grown body size of 2.4 and greater: thrumbos, elephants etc.
+[/list]
+
+Powered by Harmony Patch Library.
+
+[h1][b]Credits[/b][/h1]
+[b]Mehni, the real star of the show here - [/b]for tirelessly working on providing the code to get this mod to work elegantly at all! This mod wouldn't work as smoothly as it does without his efforts. The real MVP! I'd also recommend [url=https://ludeon.com/forums/index.php?topic=35832.0][b]checking out his mods[/b][/url] if you haven't done so already.
+
+[b]Compatibility Patches:[/b] Faeldray (FFGermanShepherd), Koolaidius (GeneticRim)
+
+Marnador for their RimWorld-style font.
+Shotgunfrenzy for kindly providing the 'Combat Extended Compatible' text.
+
+[h1][b]License[/b][/h1]
+As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you're doing so either through Steam or Ludeon Forums, and give credit where credit's due.</description>
+</ModMetaData>
