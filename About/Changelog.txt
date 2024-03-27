@@ -1,5 +1,8 @@
 # Changelog for XNDAnimalArmor
 
+1.5.1 - Republish for 1.5, steam went down last time
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 
