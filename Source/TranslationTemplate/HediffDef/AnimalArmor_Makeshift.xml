@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorHuge.label>makeshift armor</MakeshiftAnimalArmorHuge.label>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorHuge.description>makeshift armor</MakeshiftAnimalArmorHuge.description>
+  <!-- EN: makeshift animal armor. -->
+  <MakeshiftAnimalArmorHuge.labelNoun>makeshift animal armor.</MakeshiftAnimalArmorHuge.labelNoun>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorLarge.label>makeshift armor</MakeshiftAnimalArmorLarge.label>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorLarge.description>makeshift armor</MakeshiftAnimalArmorLarge.description>
+  <!-- EN: makeshift animal armor. -->
+  <MakeshiftAnimalArmorLarge.labelNoun>makeshift animal armor.</MakeshiftAnimalArmorLarge.labelNoun>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorMedium.label>makeshift armor</MakeshiftAnimalArmorMedium.label>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorMedium.description>makeshift armor</MakeshiftAnimalArmorMedium.description>
+  <!-- EN: makeshift animal armor. -->
+  <MakeshiftAnimalArmorMedium.labelNoun>makeshift animal armor.</MakeshiftAnimalArmorMedium.labelNoun>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorSmall.label>makeshift armor</MakeshiftAnimalArmorSmall.label>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorSmall.description>makeshift armor</MakeshiftAnimalArmorSmall.description>
+  <!-- EN: makeshift animal armor. -->
+  <MakeshiftAnimalArmorSmall.labelNoun>makeshift animal armor.</MakeshiftAnimalArmorSmall.labelNoun>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorTiny.label>makeshift armor</MakeshiftAnimalArmorTiny.label>
+  <!-- EN: makeshift armor -->
+  <MakeshiftAnimalArmorTiny.description>makeshift armor</MakeshiftAnimalArmorTiny.description>
+  <!-- EN: makeshift animal armor. -->
+  <MakeshiftAnimalArmorTiny.labelNoun>makeshift animal armor.</MakeshiftAnimalArmorTiny.labelNoun>
+</LanguageData>

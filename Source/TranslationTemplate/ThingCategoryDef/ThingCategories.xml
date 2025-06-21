@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal armor -->
+  <AnimalArmor.label>animal armor</AnimalArmor.label>
+  <!-- EN: heavy -->
+  <HeavyAnimalArmor.label>heavy</HeavyAnimalArmor.label>
+  <!-- EN: makeshift -->
+  <MakeshiftAnimalArmor.label>makeshift</MakeshiftAnimalArmor.label>
+  <!-- EN: standard -->
+  <StandardAnimalArmor.label>standard</StandardAnimalArmor.label>
+</LanguageData>

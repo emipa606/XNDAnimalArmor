@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorHuge.label>standard armor</StandardAnimalArmorHuge.label>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorHuge.description>standard armor</StandardAnimalArmorHuge.description>
+  <!-- EN: standard animal armor. -->
+  <StandardAnimalArmorHuge.labelNoun>standard animal armor.</StandardAnimalArmorHuge.labelNoun>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorLarge.label>standard armor</StandardAnimalArmorLarge.label>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorLarge.description>standard armor</StandardAnimalArmorLarge.description>
+  <!-- EN: standard animal armor. -->
+  <StandardAnimalArmorLarge.labelNoun>standard animal armor.</StandardAnimalArmorLarge.labelNoun>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorMedium.label>standard armor</StandardAnimalArmorMedium.label>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorMedium.description>standard armor</StandardAnimalArmorMedium.description>
+  <!-- EN: standard animal armor. -->
+  <StandardAnimalArmorMedium.labelNoun>standard animal armor.</StandardAnimalArmorMedium.labelNoun>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorSmall.label>standard armor</StandardAnimalArmorSmall.label>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorSmall.description>standard armor</StandardAnimalArmorSmall.description>
+  <!-- EN: standard animal armor. -->
+  <StandardAnimalArmorSmall.labelNoun>standard animal armor.</StandardAnimalArmorSmall.labelNoun>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorTiny.label>standard armor</StandardAnimalArmorTiny.label>
+  <!-- EN: standard armor -->
+  <StandardAnimalArmorTiny.description>standard armor</StandardAnimalArmorTiny.description>
+  <!-- EN: standard animal armor. -->
+  <StandardAnimalArmorTiny.labelNoun>standard animal armor.</StandardAnimalArmorTiny.labelNoun>
+</LanguageData>

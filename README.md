@@ -1,4 +1,4 @@
-# XNDAnimalArmor
+# [[XND] Animal Armor (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2270547158)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -8,26 +8,24 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1308599543
 - Replaced the patch-system with C#-code that dynamically adds armour recipies to all animals depending on body-size instead. This way the mod will work on all animals
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 # **Compatibility**
 
 Compatible with Vanilla-Friendly Animal Surgery and A Dog Said and will work with either mod without any issues.
 
-This can be used with other animal mods active,[strike] but you can't actually install armor onto them since they won't have the RecipeDefs XML patched onto them. As a result, compatibility patches will be needed to be able to armor up your penguins, thrumuffalo or whatever other modded animals you have. It'll be up to other modders to either make external compatibility patches or submit them to me so that I can integrate them into the mod Combat Extended-style.[/strike]
+This can be used with other animal mods active,~~ but you can't actually install armor onto them since they won't have the RecipeDefs XML patched onto them. As a result, compatibility patches will be needed to be able to armor up your penguins, thrumuffalo or whatever other modded animals you have. It'll be up to other modders to either make external compatibility patches or submit them to me so that I can integrate them into the mod Combat Extended-style.~~
 
 I'd recommend using the following mods alongside this for an optimal experience:
 
-- http://steamcommunity.com/sharedfiles/filedetails/?id=1130112804]**Vanilla-Friendly Animal Surgery** so that you can give your animals painstoppers and bionics to make them into true mobile meat/mechanoid grinders.
-- http://steamcommunity.com/sharedfiles/filedetails/?id=1102480398]**Simple Plastic** so that you can produce synthread to establish a heavy armor production chain.
+- [**Vanilla-Friendly Animal Surgery**](http://steamcommunity.com/sharedfiles/filedetails/?id=1130112804) so that you can give your animals painstoppers and bionics to make them into true mobile meat/mechanoid grinders.
+- [**Simple Plastic**](http://steamcommunity.com/sharedfiles/filedetails/?id=1102480398) so that you can produce synthread to establish a heavy armor production chain.
 
-**The following mods are compatible with Animal Armor:**[strike]
-- http://steamcommunity.com/sharedfiles/filedetails/?id=1113137502]**GeneticRim** by SargBjornson
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1205488606]**FFGermanShepherd** by forestfey
-[/strike]
+**The following mods are compatible with Animal Armor:**~~
+- [**GeneticRim**](http://steamcommunity.com/sharedfiles/filedetails/?id=1113137502) by SargBjornson
+- [**FFGermanShepherd**](https://steamcommunity.com/sharedfiles/filedetails/?id=1205488606) by forestfey
+~~
 # **Overview**
 
 Animal army enthusiasts, did it ever bother you that in RimWorld that you can't armor up your animals? Well, this mod allows you to do exactly so!
@@ -56,9 +54,9 @@ Powered by Harmony Patch Library.
 
 # **Credits**
 
-**Mehni, the real star of the show here - **for tirelessly working on providing the code to get this mod to work elegantly at all! This mod wouldn't work as smoothly as it does without his efforts. The real MVP! I'd also recommend https://ludeon.com/forums/index.php?topic=35832.0]**checking out his mods** if you haven't done so already.
+**Mehni, the real star of the show here - **for tirelessly working on providing the code to get this mod to work elegantly at all! This mod wouldn't work as smoothly as it does without his efforts. The real MVP! I'd also recommend [**checking out his mods**](https://ludeon.com/forums/index.php?topic=35832.0) if you haven't done so already.
 
-[strike]**Compatibility Patches:** Faeldray (FFGermanShepherd), Koolaidius (GeneticRim)[/strike]
+~~**Compatibility Patches:** Faeldray (FFGermanShepherd), Koolaidius (GeneticRim)~~
 
 Marnador for their RimWorld-style font.
 Shotgunfrenzy for kindly providing the 'Combat Extended Compatible' text.
@@ -73,13 +71,12 @@ As is standard with my mods: you may include this mod in a mod pack, and you may
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2270547158]![Image](https://img.shields.io/github/v/release/emipa606/XNDAnimalArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/XNDAnimalArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2270547158) | tags:  armor

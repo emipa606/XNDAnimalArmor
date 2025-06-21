@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: this shouldn't be visible -->
+  <NullAnimalArmor.label>this shouldn't be visible</NullAnimalArmor.label>
+  <!-- EN: this shouldn't be visible -->
+  <NullAnimalArmor.description>this shouldn't be visible</NullAnimalArmor.description>
+  <!-- EN: null. -->
+  <NullAnimalArmor.labelNoun>null.</NullAnimalArmor.labelNoun>
+</LanguageData>

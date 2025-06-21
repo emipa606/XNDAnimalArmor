@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: remove armor -->
+  <RemoveHeavyAnimalArmorHuge.label>remove armor</RemoveHeavyAnimalArmorHuge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveHeavyAnimalArmorHuge.description>Removes an animal's armor.</RemoveHeavyAnimalArmorHuge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveHeavyAnimalArmorHuge.jobString>Removing armor.</RemoveHeavyAnimalArmorHuge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveHeavyAnimalArmorLarge.label>remove armor</RemoveHeavyAnimalArmorLarge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveHeavyAnimalArmorLarge.description>Removes an animal's armor.</RemoveHeavyAnimalArmorLarge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveHeavyAnimalArmorLarge.jobString>Removing armor.</RemoveHeavyAnimalArmorLarge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveHeavyAnimalArmorMedium.label>remove armor</RemoveHeavyAnimalArmorMedium.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveHeavyAnimalArmorMedium.description>Removes an animal's armor.</RemoveHeavyAnimalArmorMedium.description>
+  <!-- EN: Removing armor. -->
+  <RemoveHeavyAnimalArmorMedium.jobString>Removing armor.</RemoveHeavyAnimalArmorMedium.jobString>
+  <!-- EN: remove armor -->
+  <RemoveHeavyAnimalArmorSmall.label>remove armor</RemoveHeavyAnimalArmorSmall.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveHeavyAnimalArmorSmall.description>Removes an animal's armor.</RemoveHeavyAnimalArmorSmall.description>
+  <!-- EN: Removing armor. -->
+  <RemoveHeavyAnimalArmorSmall.jobString>Removing armor.</RemoveHeavyAnimalArmorSmall.jobString>
+  <!-- EN: remove armor -->
+  <RemoveHeavyAnimalArmorTiny.label>remove armor</RemoveHeavyAnimalArmorTiny.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveHeavyAnimalArmorTiny.description>Removes an animal's armor.</RemoveHeavyAnimalArmorTiny.description>
+  <!-- EN: Removing armor. -->
+  <RemoveHeavyAnimalArmorTiny.jobString>Removing armor.</RemoveHeavyAnimalArmorTiny.jobString>
+  <!-- EN: remove armor -->
+  <RemoveMakeshiftAnimalArmorHuge.label>remove armor</RemoveMakeshiftAnimalArmorHuge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveMakeshiftAnimalArmorHuge.description>Removes an animal's armor.</RemoveMakeshiftAnimalArmorHuge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveMakeshiftAnimalArmorHuge.jobString>Removing armor.</RemoveMakeshiftAnimalArmorHuge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveMakeshiftAnimalArmorLarge.label>remove armor</RemoveMakeshiftAnimalArmorLarge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveMakeshiftAnimalArmorLarge.description>Removes an animal's armor.</RemoveMakeshiftAnimalArmorLarge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveMakeshiftAnimalArmorLarge.jobString>Removing armor.</RemoveMakeshiftAnimalArmorLarge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveMakeshiftAnimalArmorMedium.label>remove armor</RemoveMakeshiftAnimalArmorMedium.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveMakeshiftAnimalArmorMedium.description>Removes an animal's armor.</RemoveMakeshiftAnimalArmorMedium.description>
+  <!-- EN: Removing armor. -->
+  <RemoveMakeshiftAnimalArmorMedium.jobString>Removing armor.</RemoveMakeshiftAnimalArmorMedium.jobString>
+  <!-- EN: remove armor -->
+  <RemoveMakeshiftAnimalArmorSmall.label>remove armor</RemoveMakeshiftAnimalArmorSmall.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveMakeshiftAnimalArmorSmall.description>Removes an animal's armor.</RemoveMakeshiftAnimalArmorSmall.description>
+  <!-- EN: Removing armor. -->
+  <RemoveMakeshiftAnimalArmorSmall.jobString>Removing armor.</RemoveMakeshiftAnimalArmorSmall.jobString>
+  <!-- EN: remove armor -->
+  <RemoveMakeshiftAnimalArmorTiny.label>remove armor</RemoveMakeshiftAnimalArmorTiny.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveMakeshiftAnimalArmorTiny.description>Removes an animal's armor.</RemoveMakeshiftAnimalArmorTiny.description>
+  <!-- EN: Removing armor. -->
+  <RemoveMakeshiftAnimalArmorTiny.jobString>Removing armor.</RemoveMakeshiftAnimalArmorTiny.jobString>
+  <!-- EN: remove armor -->
+  <RemoveStandardAnimalArmorHuge.label>remove armor</RemoveStandardAnimalArmorHuge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveStandardAnimalArmorHuge.description>Removes an animal's armor.</RemoveStandardAnimalArmorHuge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveStandardAnimalArmorHuge.jobString>Removing armor.</RemoveStandardAnimalArmorHuge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveStandardAnimalArmorLarge.label>remove armor</RemoveStandardAnimalArmorLarge.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveStandardAnimalArmorLarge.description>Removes an animal's armor.</RemoveStandardAnimalArmorLarge.description>
+  <!-- EN: Removing armor. -->
+  <RemoveStandardAnimalArmorLarge.jobString>Removing armor.</RemoveStandardAnimalArmorLarge.jobString>
+  <!-- EN: remove armor -->
+  <RemoveStandardAnimalArmorMedium.label>remove armor</RemoveStandardAnimalArmorMedium.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveStandardAnimalArmorMedium.description>Removes an animal's armor.</RemoveStandardAnimalArmorMedium.description>
+  <!-- EN: Removing armor. -->
+  <RemoveStandardAnimalArmorMedium.jobString>Removing armor.</RemoveStandardAnimalArmorMedium.jobString>
+  <!-- EN: remove armor -->
+  <RemoveStandardAnimalArmorSmall.label>remove armor</RemoveStandardAnimalArmorSmall.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveStandardAnimalArmorSmall.description>Removes an animal's armor.</RemoveStandardAnimalArmorSmall.description>
+  <!-- EN: Removing armor. -->
+  <RemoveStandardAnimalArmorSmall.jobString>Removing armor.</RemoveStandardAnimalArmorSmall.jobString>
+  <!-- EN: remove armor -->
+  <RemoveStandardAnimalArmorTiny.label>remove armor</RemoveStandardAnimalArmorTiny.label>
+  <!-- EN: Removes an animal's armor. -->
+  <RemoveStandardAnimalArmorTiny.description>Removes an animal's armor.</RemoveStandardAnimalArmorTiny.description>
+  <!-- EN: Removing armor. -->
+  <RemoveStandardAnimalArmorTiny.jobString>Removing armor.</RemoveStandardAnimalArmorTiny.jobString>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: heavy animal armor (huge) -->
+  <HeavyAnimalArmorHuge.label>heavy animal armor (huge)</HeavyAnimalArmorHuge.label>
+  <!-- EN: Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.\n\nFits on animals with a mature body size of 2.4 or greater. -->
+  <HeavyAnimalArmorHuge.description>Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.
+
+Fits on animals with a mature body size of 2.4 or greater.</HeavyAnimalArmorHuge.description>
+  <!-- EN: heavy animal armor (large) -->
+  <HeavyAnimalArmorLarge.label>heavy animal armor (large)</HeavyAnimalArmorLarge.label>
+  <!-- EN: Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.\n\nFits on animals with a mature body size of 1.3 or greater, but less than 2.4. -->
+  <HeavyAnimalArmorLarge.description>Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.
+
+Fits on animals with a mature body size of 1.3 or greater, but less than 2.4.</HeavyAnimalArmorLarge.description>
+  <!-- EN: heavy animal armor (medium) -->
+  <HeavyAnimalArmorMedium.label>heavy animal armor (medium)</HeavyAnimalArmorMedium.label>
+  <!-- EN: Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.\n\nFits on animals with a mature body size of 0.7 or greater, but less than 1.3. -->
+  <HeavyAnimalArmorMedium.description>Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.
+
+Fits on animals with a mature body size of 0.7 or greater, but less than 1.3.</HeavyAnimalArmorMedium.description>
+  <!-- EN: heavy animal armor (small) -->
+  <HeavyAnimalArmorSmall.label>heavy animal armor (small)</HeavyAnimalArmorSmall.label>
+  <!-- EN: Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.\n\nFits on animals with a mature body size of 0.3 or greater, but less than 0.7. -->
+  <HeavyAnimalArmorSmall.description>Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.
+
+Fits on animals with a mature body size of 0.3 or greater, but less than 0.7.</HeavyAnimalArmorSmall.description>
+  <!-- EN: heavy animal armor (tiny) -->
+  <HeavyAnimalArmorTiny.label>heavy animal armor (tiny)</HeavyAnimalArmorTiny.label>
+  <!-- EN: Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.\n\nFits on animals with a mature body size of less than 0.3. -->
+  <HeavyAnimalArmorTiny.description>Heavy-duty animal armor. Cumbersome, but offers a significant amount of protection due to thick plasteel plating and a high-quality synthread lining.
+
+Fits on animals with a mature body size of less than 0.3.</HeavyAnimalArmorTiny.description>
+</LanguageData>

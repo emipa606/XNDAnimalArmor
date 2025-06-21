@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorHuge.label>heavy armor</HeavyAnimalArmorHuge.label>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorHuge.description>heavy armor</HeavyAnimalArmorHuge.description>
+  <!-- EN: heavy animal armor. -->
+  <HeavyAnimalArmorHuge.labelNoun>heavy animal armor.</HeavyAnimalArmorHuge.labelNoun>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorLarge.label>heavy armor</HeavyAnimalArmorLarge.label>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorLarge.description>heavy armor</HeavyAnimalArmorLarge.description>
+  <!-- EN: heavy animal armor. -->
+  <HeavyAnimalArmorLarge.labelNoun>heavy animal armor.</HeavyAnimalArmorLarge.labelNoun>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorMedium.label>heavy armor</HeavyAnimalArmorMedium.label>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorMedium.description>heavy armor</HeavyAnimalArmorMedium.description>
+  <!-- EN: heavy animal armor. -->
+  <HeavyAnimalArmorMedium.labelNoun>heavy animal armor.</HeavyAnimalArmorMedium.labelNoun>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorSmall.label>heavy armor</HeavyAnimalArmorSmall.label>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorSmall.description>heavy armor</HeavyAnimalArmorSmall.description>
+  <!-- EN: heavy animal armor. -->
+  <HeavyAnimalArmorSmall.labelNoun>heavy animal armor.</HeavyAnimalArmorSmall.labelNoun>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorTiny.label>heavy armor</HeavyAnimalArmorTiny.label>
+  <!-- EN: heavy armor -->
+  <HeavyAnimalArmorTiny.description>heavy armor</HeavyAnimalArmorTiny.description>
+  <!-- EN: heavy animal armor. -->
+  <HeavyAnimalArmorTiny.labelNoun>heavy animal armor.</HeavyAnimalArmorTiny.labelNoun>
+</LanguageData>

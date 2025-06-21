@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: basic animal armor production -->
+  <BasicAnimalArmorProduction.label>basic animal armor production</BasicAnimalArmorProduction.label>
+  <!-- EN: Learn to produce makeshift animal armor at a smithy by studying the anatomy of animals. -->
+  <BasicAnimalArmorProduction.description>Learn to produce makeshift animal armor at a smithy by studying the anatomy of animals.</BasicAnimalArmorProduction.description>
+</LanguageData>
