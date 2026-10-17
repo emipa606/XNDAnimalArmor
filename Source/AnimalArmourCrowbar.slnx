@@ -3,4 +3,38 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="AnimalArmourCrowbar/AnimalArmourCrowbar.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/ResearchProjects_Tier2_Misc.xml" />
+    <File Path="../1.7/Defs/ResearchProjectDefs/ResearchProjects_Tier3_Misc.xml" />
+    <File Path="../1.7/Defs/ResearchProjectDefs/ResearchTabs.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/HediffDefs/">
+    <File Path="../1.7/Defs/HediffDefs/AnimalArmor_Heavy.xml" />
+    <File Path="../1.7/Defs/HediffDefs/AnimalArmor_Makeshift.xml" />
+    <File Path="../1.7/Defs/HediffDefs/AnimalArmor_Null.xml" />
+    <File Path="../1.7/Defs/HediffDefs/AnimalArmor_Standard.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Items/">
+    <File Path="../1.7/Defs/ThingDefs_Items/AnimalArmor_Base.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/AnimalArmor_Heavy.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/AnimalArmor_Makeshift.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/AnimalArmor_Standard.xml" />
+    <File Path="../1.7/Defs/ThingDefs_Items/Items_Unfinished.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/AnimalArmorRecipes_Base.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/HeavyAnimalArmorRecipes.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/MakeshiftAnimalArmorRecipes.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/RemoveAnimalArmor.xml" />
+    <File Path="../1.7/Defs/RecipeDefs/StandardAnimalArmorRecipes.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingCategoryDefs/">
+    <File Path="../1.7/Defs/ThingCategoryDefs/ThingCategories.xml" />
+  </Folder>
 </Solution>
